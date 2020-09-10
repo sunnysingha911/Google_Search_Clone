@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google_Search_Clone/static/css/main.ca2239b4.chunk.css",
+    "main.js": "/Google_Search_Clone/static/js/main.3bd28976.chunk.js",
+    "main.js.map": "/Google_Search_Clone/static/js/main.3bd28976.chunk.js.map",
+    "runtime-main.js": "/Google_Search_Clone/static/js/runtime-main.c96c5258.js",
+    "runtime-main.js.map": "/Google_Search_Clone/static/js/runtime-main.c96c5258.js.map",
+    "static/js/2.ff13bca0.chunk.js": "/Google_Search_Clone/static/js/2.ff13bca0.chunk.js",
+    "static/js/2.ff13bca0.chunk.js.map": "/Google_Search_Clone/static/js/2.ff13bca0.chunk.js.map",
+    "index.html": "/Google_Search_Clone/index.html",
+    "precache-manifest.06b56c086410b3577a66c92c507f3a75.js": "/Google_Search_Clone/precache-manifest.06b56c086410b3577a66c92c507f3a75.js",
+    "service-worker.js": "/Google_Search_Clone/service-worker.js",
+    "static/css/main.ca2239b4.chunk.css.map": "/Google_Search_Clone/static/css/main.ca2239b4.chunk.css.map",
+    "static/js/2.ff13bca0.chunk.js.LICENSE.txt": "/Google_Search_Clone/static/js/2.ff13bca0.chunk.js.LICENSE.txt",
+    "static/media/mike.png": "/Google_Search_Clone/static/media/mike.2589d56f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96c5258.js",
+    "static/js/2.ff13bca0.chunk.js",
+    "static/css/main.ca2239b4.chunk.css",
+    "static/js/main.3bd28976.chunk.js"
+  ]
+}
